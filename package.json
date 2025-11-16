@@ -1,0 +1,18 @@
+{
+  "name": "fetch-site",
+  "version": "1.0.0",
+  "description": "Генератор статических HTML страниц из API",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "keywords": [
+    "html",
+    "generator",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC"
+}
